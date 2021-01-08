@@ -5,7 +5,7 @@ sudo git clone https://github.com/Lazarenko-Alexandr/NameIcon.git
 
 cd NameIcon
 
-sudo docker-compose up --build -d
+sudo docker-compose up
 ```
 Для доступа к интерфейсу - [приложение](http://localhost:9090)
 
