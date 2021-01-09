@@ -1,7 +1,7 @@
 # NameIcon
 Выполнить команды первичного развертывания:
 ```shell script
-sudo git clone https://github.com/Lazarenko-Alexandr/NameIcon.git
+sudo git clone https://github.com/corvinus-cron/NameIcon.git
 
 cd NameIcon
 
