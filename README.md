@@ -3,7 +3,7 @@
 ## Автор
 Лазаренко Александр
 ## Задание
-[Задание](https://github.com/corvinus-cron/NameIcon/blob/main/task.md)
+[Task](https://github.com/corvinus-cron/NameIcon/blob/main/task.md)
 ## Развертывание
 Для развертывания сервиса требуется выполнить следующие действия:
 ```shell script
